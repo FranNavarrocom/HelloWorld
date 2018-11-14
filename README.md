@@ -1,2 +1,2 @@
 # HelloWorld
-Just a Hello World! :-)
+<h1>Just a Hello Word! :-)</h1>
